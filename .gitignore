@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/node_modules/node_modules/react-native/ReactAndroid/build/
